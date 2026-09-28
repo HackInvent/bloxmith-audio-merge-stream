@@ -10,8 +10,6 @@ Verified BloxSmith versions: **1.0.9** (bundled-block tests; see [test evidence]
 
 [![AUDIO MERGE — Multiplexes independent Opus audio streams into one link while preserving their separate identities and audio bytes.](media/thumbnail.webp)](media/cover.png)
 
-*Concept illustration. [Artwork and generation prompt](media/README.md).*
-
 ## Role
 
 Multiplex independent Opus sources through a single audio output without decoding, re-encoding or changing their audio bytes. This is not a sound mixer: overlapping voices remain separate streams.
